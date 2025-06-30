@@ -1,0 +1,3 @@
+[submodule "bluestock-ipo-webapp"]
+	path = bluestock-ipo-webapp
+	url = https://github.com/Yogendra4942/Bluestock_ipo.git
